@@ -1,0 +1,632 @@
+,beds,city,state,price
+0,1.0,,Florida,399.0
+1,1.0,Amelia City,Florida,274.0
+2,1.0,Black Forest,Colorado,119.0
+3,1.0,Cape Canaveral,Florida,124.0
+4,1.0,Casey Key,Florida,325.0
+5,1.0,Catalina Foothills,Arizona,65.0
+6,1.0,Chandler,Arizona,132.5
+7,1.0,Clearwater,Clearwater Beach,269.0
+8,1.0,Dillon,Colorado,71.0
+9,1.0,Estes Park,Colorado,129.0
+10,1.0,Golden Beach, Florida,90.0
+11,1.0,Highland Pines,Arizona,149.0
+12,1.0,Historic Seaport,Florida,114.0
+13,1.0,Holiday,Florida,103.0
+14,1.0,Holiday Isle, Florida,70.0
+15,1.0,Hollywood Beach,Hollywood,125.0
+16,1.0,Key Colony Beach,Florida,289.0
+17,1.0,Keystone,Colorado,119.5
+18,1.0,Long Beach, Florida,303.0
+19,1.0,Martin County, Florida,215.0
+20,1.0,Mayer,Arizona,129.0
+21,1.0,Miami,Florida,98.0
+22,1.0,Miramar Beach,Florida,360.0
+23,1.0,Mountainaire,Arizona,110.0
+24,1.0,Panama City Beach,Florida,227.5
+25,1.0,Paradise Valley,Arizona,163.0
+26,1.0,Phoenix,Arizona,127.5
+27,1.0,Phoenix,Maricopa County,98.0
+28,1.0,Prescott,Arizona,155.0
+29,1.0,Rio Verde Foothills,Arizona,118.0
+30,1.0,Riverview,Florida,104.0
+31,1.0,San Carlos Park,Florida,149.0
+32,1.0,San Tan Valley,Arizona,95.0
+33,1.0,Scottsdale,Arizona,104.0
+34,1.0,Seacrest Beach,Florida,382.0
+35,1.0,Seagrove Beach,Florida,250.0
+36,1.0,Sedona,Arizona,178.0
+37,1.0,St. Augustine,Florida,156.0
+38,1.0,Tanque Verde,Arizona,112.0
+39,1.0,Telluride,Colorado,229.0
+40,1.0,Tempe,Arizona,106.0
+41,1.0,Tonto Basin,Arizona,95.0
+42,1.0,West Sedona,Arizona,159.33333333333334
+43,1.0,Winter Park,Colorado,308.0
+44,2.0,Bisbee,Arizona,175.0
+45,2.0,Boulder,Colorado,248.0
+46,2.0,Breckenridge,Colorado,230.0
+47,2.0,Brevard County,Florida,141.0
+48,2.0,Broward County,Florida,246.0
+49,2.0,Cedar Key,Florida,130.0
+50,2.0,Champions,Florida,217.0
+51,2.0,Chandler,Arizona,119.0
+52,2.0,Charlotte Park,Florida,129.0
+53,2.0,Clearwater,Florida,200.0
+54,2.0,Coconino County,Arizona,183.33333333333334
+55,2.0,Cornville,Arizona,153.0
+56,2.0,Cudjoe Key,Florida,275.0
+57,2.0,Daytona Beach,Florida,284.5
+58,2.0,Denver,Colorado,199.0
+59,2.0,Diamond Valley,Arizona,121.0
+60,2.0,Duck Key,Florida,363.0
+61,2.0,Edgewater,Colorado,131.0
+62,2.0,Englewood East,Florida,171.0
+63,2.0,Flagstaff,Arizona,139.25
+64,2.0,Fort Lauderdale,Florida,76.0
+65,2.0,Fort Myers Beach,Florida,150.0
+66,2.0,Fort Pierce, Florida,95.0
+67,2.0,Garfield,Colorado,226.0
+68,2.0,Gila County,Arizona,147.0
+69,2.0,Gilbert,Arizona,108.5
+70,2.0,Golden,Colorado,125.0
+71,2.0,Goodyear,Arizona,125.0
+72,2.0,Grand County,Colorado,88.0
+73,2.0,Gulf Harbors, Florida,109.0
+74,2.0,Hesperus,Colorado,125.0
+75,2.0,Hollywood Beach,Hollywood,177.0
+76,2.0,Indian Shores, Florida,143.0
+77,2.0,Key Biscayne,Florida,450.0
+78,2.0,Key West,Florida,445.6666666666667
+79,2.0,Keystone,Summit County,103.0
+80,2.0,Lake Havasu City,Arizona,158.0
+81,2.0,Largo,Florida,72.0
+82,2.0,Long Beach, Florida,372.0
+83,2.0,Madeira Beach, Florida,185.0
+84,2.0,Manasota Key,Florida,272.0
+85,2.0,Manatee County, Florida,145.0
+86,2.0,Martin County, Florida,173.0
+87,2.0,Mesa,Arizona,93.0
+88,2.0,Miami,Florida,200.0
+89,2.0,Miramar Beach, Florida,281.0
+90,2.0,Montrose County,Colorado,93.0
+91,2.0,Mount Dora,Florida,135.0
+92,2.0,New Smyrna Beach,Florida,229.0
+93,2.0,Oak Creek,Arizona,202.5
+94,2.0,Okaloosa Island, Florida,240.0
+95,2.0,Okaloosa Island,Florida,468.0
+96,2.0,Orange County,Florida,212.5
+97,2.0,Ortona Park,Florida,169.0
+98,2.0,Panama City Beach,Florida,157.0
+99,2.0,Parks,Arizona,186.0
+100,2.0,Pensacola Beach,Florida,384.0
+101,2.0,Peoria,Arizona,234.66666666666666
+102,2.0,Phoenix,Arizona,231.55555555555554
+103,2.0,Pima County,Arizona,119.0
+104,2.0,Pinetop-Lakeside,Arizona,155.0
+105,2.0,Port Saint Lucie,Florida,112.0
+106,2.0,Prescott,Arizona,109.0
+107,2.0,Quartzsite,Arizona,110.0
+108,2.0,Rosemary Beach,Florida,354.0
+109,2.0,Saguache County,Colorado,139.0
+110,2.0,Sarasota County,Florida,175.0
+111,2.0,Scottsdale,Arizona,149.0
+112,2.0,Seaside,Florida,726.0
+113,2.0,Sedona,Arizona,330.8
+114,2.0,Seminole, Florida,185.0
+115,2.0,Seminole,Florida,200.0
+116,2.0,Siesta Key,Florida,565.0
+117,2.0,Siesta Key Village,Florida,130.0
+118,2.0,St. Petersburg,Florida,176.0
+119,2.0,Sun City West,Arizona,100.0
+120,2.0,Surprise,Arizona,151.33333333333334
+121,2.0,Tampa,Florida,166.0
+122,2.0,Tempe,Arizona,123.33333333333333
+123,2.0,Tolleson,Arizona,157.0
+124,2.0,Treasure Island, Florida,188.0
+125,2.0,Tubac,Arizona,137.5
+126,2.0,Tucson,Arizona,128.0
+127,2.0,Vail,Colorado,550.6666666666666
+128,2.0,Volusia County,Florida,185.0
+129,2.0,Wahweap,Arizona,191.0
+130,2.0,West Panama City Beach,Florida,292.0
+131,2.0,West Sedona,Arizona,291.6666666666667
+132,2.0,Weston,Florida,144.0
+133,2.0,Wheat Ridge,Colorado,150.0
+134,2.0,Wildwood, Florida,95.0
+135,3.0,,Florida,305.0
+136,3.0,Ajo,Arizona,111.0
+137,3.0,Anna Maria, Florida,153.0
+138,3.0,Archuleta County,Colorado,150.0
+139,3.0,Aurora,Colorado,143.0
+140,3.0,Avon,Colorado,160.5
+141,3.0,Bear Canyon Hills,Arizona,154.0
+142,3.0,Boynton Beach, Florida,133.0
+143,3.0,Bradenton,Florida,225.0
+144,3.0,Bradenton Beach, Florida,248.0
+145,3.0,Bradenton Beach,Florida,293.0
+146,3.0,Breckenridge,Colorado,243.0
+147,3.0,Brevard County, Florida,409.0
+148,3.0,Brevard County,Florida,312.0
+149,3.0,Buckeye,Arizona,196.0
+150,3.0,Camp Verde,Arizona,135.0
+151,3.0,Cape Canaveral, Florida,130.0
+152,3.0,Cape Canaveral,Florida,274.0
+153,3.0,Cape Coral,Florida,224.0
+154,3.0,Cassine Village,Florida,250.0
+155,3.0,Chandler,Arizona,171.66666666666666
+156,3.0,Cocoa Beach, Florida,200.0
+157,3.0,Coconino County,Arizona,273.0
+158,3.0,Crescent Beach, Florida,134.0
+159,3.0,Crested Butte,Colorado,366.0
+160,3.0,Daytona Beach,Florida,287.0
+161,3.0,Daytona Beach Shores,Florida,193.0
+162,3.0,Destin, Florida,776.0
+163,3.0,Destin,Florida,282.5
+164,3.0,Dewey,Arizona,233.0
+165,3.0,Duck Key,Florida,304.0
+166,3.0,Escambia County,Florida,199.0
+167,3.0,Estes Park,Colorado,185.0
+168,3.0,Fernandina Beach,Florida,490.0
+169,3.0,Flagstaff,Arizona,165.5
+170,3.0,Fort Lauderdale,Florida,260.0
+171,3.0,Fountain Hills,Arizona,158.0
+172,3.0,Four Corners,Florida,145.0
+173,3.0,Gilbert,Arizona,119.0
+174,3.0,Glendale,Arizona,165.5
+175,3.0,Goodland, Florida,125.0
+176,3.0,Goodyear,Arizona,202.5
+177,3.0,Greenacres,Florida,199.0
+178,3.0,Greer,Arizona,180.0
+179,3.0,Hollywood Beach,Hollywood,362.5
+180,3.0,Hutchinson Island South, Florida,279.0
+181,3.0,Hutchinson Island South,Florida,152.0
+182,3.0,Indian Rocks Beach,Florida,196.5
+183,3.0,Iona,Florida,193.0
+184,3.0,Key Largo,Florida,233.0
+185,3.0,La Plata County,Colorado,150.0
+186,3.0,Lake Havasu City,Arizona,441.0
+187,3.0,Loveland,Colorado,75.0
+188,3.0,Manatee County,Florida,200.0
+189,3.0,Marco Island,Florida,126.0
+190,3.0,Martin County, Florida,180.0
+191,3.0,Miami,Florida,250.33333333333334
+192,3.0,Miami Beach,Florida,248.0
+193,3.0,Mid Beach, Florida,271.0
+194,3.0,Miramar Beach,Florida,310.0
+195,3.0,Montrose County,Colorado,200.0
+196,3.0,Mountainaire,Arizona,248.0
+197,3.0,Naples,Florida,200.0
+198,3.0,Navarre, Florida,150.0
+199,3.0,Navarre,Florida,275.0
+200,3.0,Nettles Island,Florida,110.0
+201,3.0,New Smyrna Beach,Florida,286.0
+202,3.0,North Port,Florida,183.0
+203,3.0,North Sarasota,Florida,337.0
+204,3.0,Oak Creek,Arizona,184.33333333333334
+205,3.0,Okaloosa Island,Florida,334.0
+206,3.0,Orange County,Florida,215.33333333333334
+207,3.0,Osceola County,Florida,116.0
+208,3.0,Palm Harbor,Florida,195.0
+209,3.0,Panama City Beach, Florida,172.5
+210,3.0,Panama City Beach,Florida,257.8333333333333
+211,3.0,Pensacola Beach,Florida,329.5
+212,3.0,Peoria,Arizona,233.0
+213,3.0,Phoenix,Arizona,148.25
+214,3.0,Pinetta,Florida,150.0
+215,3.0,Pitkin County,Colorado,1336.0
+216,3.0,Ponce Inlet, Florida,200.0
+217,3.0,Ponce Inlet,Florida,215.0
+218,3.0,Port Saint Lucie,Florida,159.0
+219,3.0,Prescott,Arizona,190.5
+220,3.0,Pueblo,Colorado,75.0
+221,3.0,Queen Creek,Arizona,303.0
+222,3.0,Redington Shores,Florida,250.0
+223,3.0,Ruskin,Florida,143.0
+224,3.0,San Carlos Park,Florida,112.0
+225,3.0,Sandestin,Florida,289.0
+226,3.0,Santa Rosa County,Florida,328.0
+227,3.0,Sarasota,Florida,129.0
+228,3.0,Sarasota County,Florida,179.0
+229,3.0,Scottsdale,Arizona,242.875
+230,3.0,Seacrest Beach,Florida,300.0
+231,3.0,Sedona,Arizona,387.0
+232,3.0,Show Low,Arizona,169.0
+233,3.0,Sierra Vista,Arizona,176.0
+234,3.0,Siesta Key,Florida,416.0
+235,3.0,Snowmass Village,Colorado,391.0
+236,3.0,Sonoita,Arizona,222.0
+237,3.0,St. Augustine,Florida,250.0
+238,3.0,Sunnyside,Florida,366.0
+239,3.0,Surprise,Arizona,189.0
+240,3.0,Tarpon Bay,Florida,317.0
+241,3.0,Tempe,Arizona,192.0
+242,3.0,The Villages,Florida,138.0
+243,3.0,Thornton,Colorado,189.0
+244,3.0,Tombstone,Arizona,109.0
+245,3.0,Tucson,Arizona,151.8
+246,3.0,Vail,Colorado,635.0
+247,3.0,Vero Beach, Florida,120.0
+248,3.0,Vero Beach South,Florida,125.0
+249,3.0,Weeki Wachee Gardens, Florida,248.0
+250,3.0,West Palm Beach,Florida,164.0
+251,3.0,West Panama City Beach, Florida,250.0
+252,3.0,West Panama City Beach,Florida,279.0
+253,3.0,West Sedona,Arizona,377.22222222222223
+254,3.0,Yavapai County,Arizona,99.0
+255,4.0,Bahama Bay, Florida,105.0
+256,4.0,Berkley,Colorado,335.0
+257,4.0,Blue Mountain Beach,Florida,383.0
+258,4.0,Bradenton Beach,Florida,400.0
+259,4.0,Breckenridge,Colorado,167.0
+260,4.0,Brevard County, Florida,205.0
+261,4.0,Broward County,Florida,229.0
+262,4.0,Butler Beach, Florida,254.5
+263,4.0,Butler Beach,Florida,249.0
+264,4.0,Callaway,Florida,52.0
+265,4.0,Caloosahatchee, Florida,133.0
+266,4.0,Cape Canaveral, Florida,330.5
+267,4.0,Cape Coral,Florida,309.6666666666667
+268,4.0,Cave Creek,Arizona,470.0
+269,4.0,Chandler,Arizona,206.66666666666666
+270,4.0,Charlotte Park,Florida,199.0
+271,4.0,Clearwater, Florida,148.0
+272,4.0,Cocoa Beach,Florida,196.0
+273,4.0,Coconino County,Arizona,205.0
+274,4.0,Colorado Springs,Colorado,383.5
+275,4.0,Copper Mountain,Colorado,378.0
+276,4.0,Crescent Beach, Florida,163.0
+277,4.0,Crested Butte,Colorado,700.0
+278,4.0,Daytona Beach,Florida,437.0
+279,4.0,Daytona Beach Shores,Florida,300.0
+280,4.0,Destin,Florida,249.0
+281,4.0,Drexel Heights,Arizona,172.0
+282,4.0,East Naples,Florida,87.0
+283,4.0,Estes Park,Colorado,297.0
+284,4.0,Flagstaff,Arizona,229.3
+285,4.0,Florissant,Colorado,225.0
+286,4.0,Fort Lauderdale,Florida,399.0
+287,4.0,Four Corners, Florida,90.0
+288,4.0,Four Corners,Florida,151.0
+289,4.0,Frisco,Colorado,260.0
+290,4.0,Gainesville,Florida,143.0
+291,4.0,Gilbert,Arizona,225.5
+292,4.0,Glendale,Arizona,1465.3333333333333
+293,4.0,Grand County,Colorado,125.0
+294,4.0,Grand Palms, Florida,89.0
+295,4.0,Greer,Arizona,129.0
+296,4.0,Gunnison,Colorado,249.0
+297,4.0,Holmes Beach, Florida,373.0
+298,4.0,Indian Rocks Beach,Florida,345.0
+299,4.0,Jackson County,Colorado,123.0
+300,4.0,Jefferson County,Colorado,274.0
+301,4.0,Jupiter Farms,Florida,282.0
+302,4.0,Key West,Florida,499.0
+303,4.0,Keystone,Colorado,109.0
+304,4.0,Kissimmee,Florida,132.0
+305,4.0,La Plata County,Colorado,231.0
+306,4.0,Lake Havasu City,Arizona,338.0
+307,4.0,Lake Worth,Florida,192.0
+308,4.0,Largo,Florida,304.0
+309,4.0,Lighthouse Point,Florida,371.0
+310,4.0,Livermore,Colorado,208.0
+311,4.0,Lower Grand Lagoon,Florida,478.0
+312,4.0,Madeira Beach, Florida,370.0
+313,4.0,Marathon,Florida,392.0
+314,4.0,Marion County,Florida,155.0
+315,4.0,Mesa,Arizona,140.0
+316,4.0,Mexico Beach,Florida,199.0
+317,4.0,Miami,Florida,449.5
+318,4.0,Miami Springs,Florida,295.0
+319,4.0,Miramar Beach, Florida,147.0
+320,4.0,Mountain Club,Arizona,288.0
+321,4.0,Munds Park,Arizona,129.0
+322,4.0,Naples Park, Florida,185.0
+323,4.0,Nassau County,Florida,680.5
+324,4.0,New Smyrna Beach,Florida,357.0
+325,4.0,Oak Creek,Arizona,249.0
+326,4.0,Oasis at Magic Ranch,Arizona,157.0
+327,4.0,Okaloosa Island, Florida,248.5
+328,4.0,Okaloosa Island,Florida,362.5
+329,4.0,Orange County,Florida,279.5
+330,4.0,Ormond-by-the-Sea,Florida,335.0
+331,4.0,Page,Arizona,450.0
+332,4.0,Pagosa Springs,Colorado,246.0
+333,4.0,Palm Bay,Florida,200.0
+334,4.0,Palm Coast,Florida,123.0
+335,4.0,Palm Harbor,Florida,195.0
+336,4.0,Panama City Beach, Florida,118.0
+337,4.0,Panama City Beach,Florida,290.09090909090907
+338,4.0,Payson,Arizona,152.0
+339,4.0,Pensacola Beach,Florida,240.0
+340,4.0,Perdido Key,Florida,268.6666666666667
+341,4.0,Phoenix,Arizona,214.125
+342,4.0,Phoenix,Maricopa County,249.0
+343,4.0,Pinellas County,Florida,208.0
+344,4.0,Pinetop-Lakeside,Arizona,253.25
+345,4.0,Polk County,Florida,227.0
+346,4.0,Port LaBelle,Florida,170.0
+347,4.0,Port Orange,Florida,380.0
+348,4.0,Prescott,Arizona,165.0
+349,4.0,Rainbow Valley,Colorado,219.0
+350,4.0,Redington Shores,Florida,200.0
+351,4.0,San Tan Valley,Arizona,243.0
+352,4.0,Sarasota,Florida,287.0
+353,4.0,Sarasota County, Florida,275.0
+354,4.0,Sarasota County,Florida,120.0
+355,4.0,Scottsdale,Arizona,478.64285714285717
+356,4.0,Seagrove Beach, Florida,397.0
+357,4.0,Seagrove Beach,Florida,248.0
+358,4.0,Sedona,Arizona,430.5
+359,4.0,Show Low,Arizona,131.5
+360,4.0,Siesta Key,Florida,306.0
+361,4.0,Silverthorne,Colorado,135.0
+362,4.0,Snowmass Village,Colorado,343.0
+363,4.0,St. Augustine,Florida,180.0
+364,4.0,St. Johns County,Florida,500.0
+365,4.0,Sun City,Arizona,92.0
+366,4.0,Sunnyside,Florida,457.5
+367,4.0,Tucson,Arizona,197.0
+368,4.0,Vail,Colorado,1586.0
+369,4.0,Walker,Arizona,202.0
+370,4.0,Walton County,Florida,364.0
+371,4.0,West Sedona,Arizona,234.0
+372,4.0,Wheat Ridge,Colorado,341.0
+373,4.0,Yavapai County,Arizona,927.0
+374,5.0,Avon By The Sea, Florida,233.0
+375,5.0,Blue Mountain Beach,Florida,1000.0
+376,5.0,Cape Coral,Florida,155.0
+377,5.0,Champions Gate,Florida,128.0
+378,5.0,Chandler,Arizona,302.5
+379,5.0,Citrus County, Florida,159.0
+380,5.0,Citrus County,Florida,340.0
+381,5.0,Cocoa Beach,Florida,350.0
+382,5.0,Coconino County,Arizona,262.5
+383,5.0,Crystal Beach, Florida,230.0
+384,5.0,Daytona Beach Shores,Florida,353.0
+385,5.0,Deerfield Beach,Florida,377.0
+386,5.0,Fernandina Beach,Florida,407.0
+387,5.0,Flagstaff,Arizona,353.6666666666667
+388,5.0,Florissant,Colorado,215.0
+389,5.0,Fraser,Colorado,178.0
+390,5.0,Glendale,Arizona,257.3333333333333
+391,5.0,Goodyear,Arizona,171.0
+392,5.0,Granby,Colorado,345.0
+393,5.0,Grand County,Colorado,144.66666666666666
+394,5.0,Greer,Arizona,143.0
+395,5.0,Gulf Aire, Florida,362.0
+396,5.0,Indian Shores,Florida,416.0
+397,5.0,Key Largo,Florida,365.0
+398,5.0,Key West,Florida,1476.0
+399,5.0,Keystone,Summit County,77.0
+400,5.0,Kingman,Arizona,202.0
+401,5.0,Lake Worth,Florida,217.0
+402,5.0,Largo,Florida,186.0
+403,5.0,Long Key,Florida,1019.0
+404,5.0,Lower Grand Lagoon,Florida,216.0
+405,5.0,Marathon,Florida,428.0
+406,5.0,Marco Island,Florida,234.0
+407,5.0,Maricopa County,Arizona,342.0
+408,5.0,Marion Oaks,Florida,254.0
+409,5.0,Mesa,Arizona,311.6666666666667
+410,5.0,Miami,Florida,662.0
+411,5.0,Miami Beach,Florida,368.0
+412,5.0,Miramar Beach,Florida,417.0
+413,5.0,Nathrop,Colorado,464.0
+414,5.0,Navarre,Florida,310.0
+415,5.0,Oak Creek,Arizona,300.0
+416,5.0,Okaloosa Island, Florida,220.5
+417,5.0,Okaloosa Island,Florida,467.5
+418,5.0,Orange County,Florida,199.0
+419,5.0,Osceola County,Florida,242.0
+420,5.0,Ouray County,Colorado,183.0
+421,5.0,Page,Arizona,167.0
+422,5.0,Palm Beach Gardens,Florida,451.0
+423,5.0,Panama City Beach, Florida,217.0
+424,5.0,Panama City Beach,Florida,270.6666666666667
+425,5.0,Peak 9,Colorado,324.0
+426,5.0,Pensacola Beach,Florida,444.0
+427,5.0,Perdido Key,Florida,319.5
+428,5.0,Phoenix,Arizona,208.0
+429,5.0,Pine,Arizona,247.0
+430,5.0,Pinetop-Lakeside,Arizona,189.0
+431,5.0,Redington Beach,Florida,449.0
+432,5.0,Scottsdale,Arizona,398.25
+433,5.0,Seacrest,Florida,599.0
+434,5.0,Sedona,Arizona,873.0
+435,5.0,Show Low,Arizona,173.0
+436,5.0,Silverthorne,Colorado,780.0
+437,5.0,Snowmass Village,Colorado,226.0
+438,5.0,St. Augustine Beach,Florida,164.0
+439,5.0,St. George Island,Florida,933.0
+440,5.0,Steamboat Springs,Colorado,301.0
+441,5.0,Surprise,Arizona,234.66666666666666
+442,5.0,Tempe,Arizona,203.5
+443,5.0,Treetop,Florida,535.0
+444,5.0,Tucson,Arizona,246.0
+445,5.0,West Panama City Beach, Florida,193.0
+446,5.0,Williams,Arizona,160.0
+447,6.0,Anna Maria,Florida,760.0
+448,6.0,Baderville,Arizona,399.0
+449,6.0,Butler Beach, Florida,191.0
+450,6.0,Butler Beach,Florida,607.0
+451,6.0,Champions Gate,Florida,163.0
+452,6.0,Chandler,Arizona,208.0
+453,6.0,Cimarron Foothills Estates,Arizona,562.0
+454,6.0,Clear Creek,Florida,145.0
+455,6.0,Clearwater,Florida,242.0
+456,6.0,Coconino County,Arizona,343.0
+457,6.0,Copper Mountain,Colorado,270.0
+458,6.0,Crescent Beach, Florida,344.0
+459,6.0,Davenport, Florida,233.0
+460,6.0,Davenport,Florida,203.0
+461,6.0,Destin,Florida,342.0
+462,6.0,Douglas County,Colorado,397.0
+463,6.0,Estes Park,Colorado,345.0
+464,6.0,Flagler Beach,Florida,264.0
+465,6.0,Flagstaff,Arizona,442.2
+466,6.0,Fort Lauderdale,Florida,600.0
+467,6.0,Fort Pierce Shores,Florida,329.0
+468,6.0,Four Corners,Florida,235.66666666666666
+469,6.0,Gilbert,Arizona,292.6666666666667
+470,6.0,Glendale,Arizona,506.75
+471,6.0,Golden,Colorado,442.0
+472,6.0,Gunnison,Colorado,278.0
+473,6.0,Lake Havasu City,Arizona,470.5
+474,6.0,Loveland,Colorado,191.0
+475,6.0,Marathon,Florida,629.5
+476,6.0,Marion County,Florida,307.0
+477,6.0,Melrose, Florida,112.0
+478,6.0,Mesa,Arizona,279.0
+479,6.0,Miramar Beach, Florida,665.0
+480,6.0,Mohave County,Arizona,85.0
+481,6.0,Monument,Colorado,284.0
+482,6.0,Navarre,Florida,330.0
+483,6.0,Okaloosa Island,Florida,350.0
+484,6.0,Orange County,Florida,500.0
+485,6.0,Osceola County,Florida,203.6
+486,6.0,Page,Arizona,347.5
+487,6.0,Panama City Beach,Florida,350.0
+488,6.0,Phoenix,Arizona,219.0
+489,6.0,Pinetop-Lakeside,Arizona,261.0
+490,6.0,Prescott,Arizona,200.0
+491,6.0,Scottsdale,Arizona,325.4
+492,6.0,Sedona,Arizona,600.0
+493,6.0,South Beach,Florida,700.0
+494,6.0,Strawberry,Arizona,231.0
+495,6.0,Sunset Lakes, Florida,157.0
+496,6.0,Walton County,Florida,372.0
+497,6.0,West Panama City Beach, Florida,239.0
+498,6.0,West Panama City Beach,Florida,397.5
+499,6.0,West Sedona,Arizona,1085.3333333333333
+500,6.0,Windsor Hills,Florida,167.0
+501,7.0,Boulder County,Colorado,800.0
+502,7.0,Breckenridge,Colorado,284.0
+503,7.0,Calabay Parc,Florida,225.0
+504,7.0,Chandler,Arizona,136.0
+505,7.0,Colorado Springs,Colorado,379.0
+506,7.0,Copper Mountain,Colorado,78.0
+507,7.0,Cudjoe Key,Florida,679.0
+508,7.0,Dania Beach,Florida,278.0
+509,7.0,Destin,Florida,724.0
+510,7.0,Estes Park,Colorado,371.0
+511,7.0,Flagstaff,Arizona,289.0
+512,7.0,Fort Collins,Colorado,383.0
+513,7.0,Four Corners, Florida,297.0
+514,7.0,Four Corners,Florida,176.0
+515,7.0,Fraser,Colorado,335.0
+516,7.0,Glendale,Arizona,667.0
+517,7.0,Glenwood Springs,Colorado,310.0
+518,7.0,Grand County,Colorado,400.0
+519,7.0,Haines City,Florida,158.0
+520,7.0,Lake Berkley,Florida,167.0
+521,7.0,Mesa,Arizona,829.0
+522,7.0,Munds Park,Arizona,252.0
+523,7.0,Navarre, Florida,175.0
+524,7.0,Navarre,Florida,364.0
+525,7.0,Oak Creek,Arizona,1452.0
+526,7.0,Osceola County,Florida,157.0
+527,7.0,Phoenix,Arizona,652.0
+528,7.0,Pinellas County,Florida,337.0
+529,7.0,Pinetop-Lakeside,Arizona,296.0
+530,7.0,Richmond West,Florida,311.0
+531,7.0,Sarasota,Florida,217.0
+532,7.0,Scottsdale,Arizona,275.6666666666667
+533,7.0,St. Lucie Village,Florida,800.0
+534,7.0,Sunnyside,Florida,550.0
+535,7.0,The Hammocks,Florida,286.0
+536,7.0,Vail,Colorado,517.0
+537,7.0,Wildernest,Colorado,450.0
+538,7.0,Woodland Park,Colorado,566.0
+539,7.0,Youngtown,Arizona,2285.0
+540,8.0,Allenspark,Colorado,222.0
+541,8.0,Beaver Creek,Colorado,1533.0
+542,8.0,Breckenridge,Colorado,235.0
+543,8.0,Champions Gate,Florida,407.0
+544,8.0,Chandler,Arizona,689.0
+545,8.0,Coconino County,Arizona,353.0
+546,8.0,Davenport,Florida,273.0
+547,8.0,Eagle-Vail,Colorado,410.0
+548,8.0,Flagstaff,Arizona,200.5
+549,8.0,Fountain Hills,Arizona,1550.0
+550,8.0,Gilbert,Arizona,442.0
+551,8.0,Goodyear,Arizona,235.0
+552,8.0,Greer,Arizona,227.0
+553,8.0,Indian Shores,Florida,1000.0
+554,8.0,Inlet Beach,Florida,800.0
+555,8.0,Jacksonville,Florida,373.0
+556,8.0,Lake County,Florida,299.0
+557,8.0,Lake Havasu City,Arizona,428.0
+558,8.0,Marco Island,Florida,382.0
+559,8.0,Mesa,Arizona,367.0
+560,8.0,Munds Park,Arizona,281.0
+561,8.0,Okaloosa Island,Florida,410.0
+562,8.0,Pembroke Pines,Florida,382.0
+563,8.0,Perdido Key, Florida,199.0
+564,8.0,Phoenix,Arizona,1081.5
+565,8.0,Pinellas Park,Florida,595.0
+566,8.0,Pinetop-Lakeside,Arizona,216.0
+567,8.0,Ruskin,Florida,342.0
+568,8.0,Sabal Harbour,Florida,325.0
+569,8.0,Scottsdale,Arizona,423.3333333333333
+570,8.0,Sedona,Arizona,498.0
+571,8.0,Show Low,Arizona,353.0
+572,8.0,St. Johns County,Florida,252.0
+573,8.0,Vail,Colorado,636.0
+574,8.0,West Sedona,Arizona,1820.0
+575,8.0,Williams,Arizona,282.0
+576,8.0,Windsor Hills,Florida,299.0
+577,9.0,Cocoa Beach,Florida,375.0
+578,9.0,Four Corners,Florida,306.0
+579,9.0,Gilbert,Arizona,393.0
+580,9.0,La Plata County,Colorado,472.0
+581,9.0,Lake Havasu City,Arizona,357.0
+582,9.0,Miramar Beach,Florida,424.0
+583,9.0,Osceola County,Florida,323.0
+584,9.0,Parks,Arizona,376.0
+585,9.0,Pensacola Beach,Florida,775.0
+586,9.0,Perdido Key,Florida,716.0
+587,9.0,Pinetop-Lakeside,Arizona,378.0
+588,9.0,Ponte Vedra Beach,Florida,875.0
+589,9.0,Prescott,Arizona,398.0
+590,9.0,Seacrest Beach,Florida,597.0
+591,9.0,South Fork,Colorado,317.0
+592,9.0,Surprise,Arizona,121.0
+593,9.0,Teller County,Colorado,609.0
+594,9.0,Trafalgar Village, Florida,181.0
+595,9.0,Weston,Colorado,135.0
+596,10.0,Breckenridge,Colorado,1386.0
+597,10.0,Davenport,Florida,256.0
+598,10.0,Fort Pierce,Florida,1538.0
+599,10.0,Glendale,Arizona,194.0
+600,10.0,Hollywood,Florida,371.0
+601,10.0,Indian Rocks Beach, Florida,350.0
+602,10.0,Munds Park,Arizona,295.0
+603,10.0,Osceola County,Florida,603.0
+604,10.0,Page,Arizona,361.0
+605,10.0,Phoenix,Arizona,929.0
+606,10.0,St. George Island,Florida,335.0
+607,10.0,Tabernash,Colorado,650.0
+608,10.0,Tampa,Florida,221.0
+609,10.0,West Sedona,Arizona,1300.0
+610,11.0,Cape San Blas,Florida,345.0
+611,11.0,Davenport,Florida,849.0
+612,11.0,Four Corners,Florida,445.5
+613,11.0,Grand County,Colorado,437.0
+614,11.0,Kingman,Arizona,175.0
+615,11.0,Phoenix,Arizona,587.0
+616,11.0,Ponte Vedra Beach,Florida,820.0
+617,11.0,Seasons,Florida,393.0
+618,11.0,Sedona,Arizona,1182.0
+619,12.0,Colorado Springs,Colorado,309.0
+620,12.0,Peoria,Arizona,306.0
+621,13.0,Pinetop-Lakeside,Arizona,611.0
+622,13.0,St. Johns County,Florida,2300.0
+623,13.0,Tempe,Arizona,260.0
+624,15.0,Osceola County,Florida,537.0
+625,16.0,Osceola County,Florida,1357.0
+626,16.0,Scottsdale,Arizona,798.0
+627,16.0,Strawberry,Arizona,239.0
+628,16.0,Tucson,Arizona,1250.0
+629,18.0,Osceola County,Florida,285.0
+630,27.0,Coconino County,Arizona,1510.0

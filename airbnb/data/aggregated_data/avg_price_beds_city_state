@@ -1,0 +1,319 @@
+beds,city,state,price
+1,Apopka, Florida,40
+1,Auburndale, Florida,75
+1,Biscayne Park, Florida,120
+1,Brooksville, Florida,198.5
+1,Cape Canaveral, Florida,85
+1,Cape Coral, Florida,63
+1,Cascade-Chipita Park, Colorado,316
+1,Cave Creek, Arizona,110
+1,Chandler, Arizona,69.3333
+1,Clearwater, Florida,233
+1,Clearwater Beach, Florida,220
+1,Cocoa Beach, Florida,123
+1,Cooper City, Florida,61
+1,Cornville, Arizona,222
+1,Crystal River, Florida,110
+1,Daytona Beach, Florida,147
+1,Delray Beach, Florida,60
+1,Englewood, Florida,159.333
+1,Fort Myers, Florida,86.5
+1,Fort Pierce, Florida,185
+1,Geneva, Florida,230
+1,Gilbert, Arizona,57.6
+1,Globe, Arizona,56
+1,Grand Canyon Junction, Arizona,111
+1,Holmes Beach, Florida,146
+1,Idledale, Colorado,372
+1,Indian Rocks Beach, Florida,109
+1,Indian Shores, Florida,117
+1,Jacksonville, Florida,161
+1,Jerome, Arizona,114.5
+1,Key Largo, Florida,202.5
+1,Key West, Florida,344
+1,Lake Suzy, Florida,77
+1,Lake Worth, Florida,75
+1,Largo, Florida,84
+1,Matlacha, Florida,170
+1,Melbourne Beach, Florida,81
+1,Mesa, Arizona,74.6
+1,Miami, Florida,127.5
+1,Miami Beach, Florida,137.667
+1,Milton, Florida,141
+1,Morristown, Arizona,58
+1,Naples, Florida,61
+1,New River, Arizona,78
+1,New Smyrna Beach, Florida,87
+1,Ocala, Florida,86
+1,Orlando, Florida,127.25
+1,Page, Arizona,82
+1,Pahokee, Florida,91
+1,Palm Bay, Florida,57
+1,Panama City Beach, Florida,213.5
+1,Peoria, Arizona,69
+1,Phoenix, Arizona,86.5652
+1,Pompano Beach, Florida,161
+1,Prescott, Arizona,138
+1,Queen Creek, Arizona,29
+1,Redington Beach, Florida,108
+1,Saint Cloud, Florida,171
+1,Saint Petersburg, Florida,88.5
+1,Salida, Colorado,120
+1,San Tan Valley, Arizona,33
+1,Sanford, Florida,51
+1,Scottsdale, Arizona,78.8333
+1,Sebring, Florida,85
+1,Sedona, Arizona,258.333
+1,Seligman, Arizona,115
+1,St. Augustine, Florida,125
+1,Stuart, Florida,175
+1,Sun City West, Arizona,77
+1,Sunny Isles Beach, Florida,127
+1,Tallahassee, Florida,51
+1,Tampa, Florida,144
+1,Tarpon Springs, Florida,68
+1,Tempe, Arizona,97.1
+1,Thonotosassa, Florida,72
+1,Treasure Island, Florida,268.333
+1,Tucson, Arizona,87.3333
+1,Twin Lakes, Colorado,80
+1,Vero Beach, Florida,80
+1,Williams, Arizona,198
+2,Alachua, Florida,91
+2,Apache Junction, Arizona,138
+2,Auburndale, Florida,109
+2,Bell, Florida,138
+2,Belleair Beach, Florida,275
+2,Big Pine Key, Florida,141
+2,Black Hawk, Colorado,408
+2,Bonita Springs, Florida,186
+2,Bradenton Beach, Florida,255
+2,Brooksville, Florida,112
+2,Cave Creek, Arizona,101
+2,Clearwater, Florida,295
+2,Cocoa Beach, Florida,166
+2,Cornville, Arizona,237
+2,Daytona Beach, Florida,140.333
+2,Daytona Beach Shores, Florida,157
+2,DeLand, Florida,90
+2,Dolan Springs, Arizona,82
+2,Dunedin, Florida,75
+2,Flagstaff, Arizona,109
+2,Fort Lauderdale, Florida,199.75
+2,Fort McCoy, Florida,56
+2,Fort Myers, Florida,206
+2,Fort Walton Beach, Florida,235
+2,Fountain Hills, Arizona,80
+2,Gilbert, Arizona,151
+2,Golden Valley, Arizona,170
+2,Goodyear, Arizona,114
+2,Heber-Overgaard, Arizona,95
+2,Hereford, Arizona,120
+2,Hollywood, Florida,370
+2,Indian Shores, Florida,232
+2,Jupiter, Florida,365
+2,Key Largo, Florida,285.8
+2,Kissimmee, Florida,108
+2,Lake Havasu City, Arizona,76
+2,Lake Wales, Florida,88
+2,Lake Worth, Florida,278
+2,Largo, Florida,131
+2,Lehigh Acres, Florida,109
+2,Mayer, Arizona,180
+2,Melbourne Beach, Florida,189
+2,Merritt Island, Florida,350
+2,Mesa, Arizona,109.667
+2,Mesa County, Colorado,320
+2,Miami, Florida,241
+2,Miami Beach, Florida,128
+2,New Smyrna Beach, Florida,121
+2,Ocklawaha, Florida,150
+2,Odessa, Florida,99
+2,Old Town, Florida,102
+2,Ormond Beach, Florida,121
+2,Oro Valley, Arizona,105
+2,Page, Arizona,200
+2,Panama City Beach, Florida,157
+2,Peoria, Arizona,80
+2,Phoenix, Arizona,113.889
+2,Pompano Beach, Florida,246.5
+2,Port St. Lucie, Florida,168
+2,Prescott Valley, Arizona,75
+2,Quartzsite, Arizona,81
+2,Queen Creek, Arizona,86
+2,Ruskin, Florida,85
+2,Saint Petersburg, Florida,81.5
+2,Sarasota, Florida,230.5
+2,Scottsdale, Arizona,177.857
+2,Sebring, Florida,94
+2,Sedona, Arizona,269.667
+2,Seligman, Arizona,100
+2,Siesta Key, Florida,352
+2,Sopchoppy, Florida,150
+2,St Petersburg, Florida,169.5
+2,St. Augustine, Florida,319
+2,Sunny Isles Beach, Florida,172
+2,Tallahassee, Florida,189
+2,Tempe, Arizona,91.3333
+2,Vail, Arizona,111
+2,Westcliffe, Colorado,173
+2,Williams, Arizona,150
+2,Zephyrhills, Florida,96
+3, Panama City Beach, Florida,226
+3,Apache Junction, Arizona,160
+3,Apollo Beach, Florida,304
+3,Bailey, Colorado,190
+3,Beulah Valley, Colorado,83
+3,Black Hawk, Colorado,332
+3,Branford, Florida,147
+3,Cape Coral, Florida,316.667
+3,Catalina, Arizona,120
+3,Chuluota, Florida,260
+3,Citra, Florida,105
+3,Crawfordville, Florida,71
+3,Dade City, Florida,71
+3,Daytona Beach, Florida,110
+3,Deerfield Beach, Florida,385
+3,Divide, Colorado,169.667
+3,Flagler Beach, Florida,420
+3,Florissant, Colorado,176.5
+3,Fort Lauderdale, Florida,592
+3,Fort White, Florida,88
+3,Gilbert, Arizona,158
+3,Glendale, Arizona,114
+3,Hawthorne, Florida,120
+3,Heber-Overgaard, Arizona,107
+3,Hollywood, Florida,387
+3,Indialantic, Florida,408
+3,Kayenta, Arizona,107
+3,Kearny, Arizona,180
+3,Key Largo, Florida,197
+3,Kingman, Arizona,111
+3,Kissimmee, Florida,114
+3,Kremmling, Colorado,275
+3,Lake Placid, Florida,176
+3,Larkspur, Colorado,99
+3,Mesa, Arizona,228
+3,Miramar Beach, Florida,458
+3,Naples, Florida,355
+3,Orlando, Florida,190.5
+3,Panama City Beach, Florida,200
+3,Parks, Arizona,103
+3,Phoenix, Arizona,163.5
+3,Pine, Arizona,159
+3,Plant City, Florida,126
+3,Port St. Joe, Florida,261
+3,Prescott, Arizona,228
+3,Rotonda West, Florida,181
+3,Scottsdale, Arizona,349
+3,Siesta Key, Florida,628
+3,Somerton, Arizona,114
+3,St. Augustine, Florida,293
+3,St. Pete Beach, Florida,94
+3,Surprise, Arizona,162
+3,Tempe, Arizona,141.5
+3,Venice, Florida,135
+3,West Palm Beach, Florida,398
+4,Belleair Beach, Florida,381
+4,Breckenridge, Colorado,188
+4,Buckeye, Arizona,114
+4,Cape Coral, Florida,256
+4,Chandler, Arizona,267.5
+4,Cocoa Beach, Florida,481
+4,Colorado Springs, Colorado,165
+4,Dade City, Florida,81
+4,Davenport, Florida,129
+4,Dunnellon, Florida,113
+4,Englewood, Florida,319.667
+4,Estes Park, Colorado,115
+4,Fairplay, Colorado,221
+4,Florissant, Colorado,266
+4,Gilbert, Arizona,268.333
+4,Glendale, Arizona,179
+4,Gold Canyon, Arizona,433
+4,Grand Lake, Colorado,197
+4,Haines City, Florida,110
+4,Heber-Overgaard, Arizona,108
+4,Hollywood, Florida,493
+4,Homosassa, Florida,431
+4,Indian Shores, Florida,213
+4,Key Colony Beach, Florida,206
+4,Kissimmee, Florida,104.333
+4,Melbourne, Florida,592
+4,Mesa, Arizona,272
+4,Naples, Florida,413
+4,New Smyrna Beach, Florida,157
+4,Pagosa Springs, Colorado,239
+4,Panama City Beach, Florida,216.5
+4,Pensacola, Florida,245
+4,Phoenix, Arizona,237.5
+4,Port St. Joe, Florida,99
+4,Prescott, Arizona,141
+4,San Tan Valley, Arizona,149
+4,Santa Rosa Beach, Florida,348
+4,Scottsdale, Arizona,210
+4,South Fork, Colorado,169
+4,St Petersburg, Florida,225
+4,Superior, Arizona,128
+4,Surprise, Arizona,109
+4,Tempe, Arizona,215.333
+5,Bailey, Colorado,406
+5,Breckenridge, Colorado,159
+5,Cape Coral, Florida,322
+5,Chandler, Arizona,330
+5,Davenport, Florida,146
+5,Goodyear, Arizona,186
+5,Inverness, Florida,197
+5,Kissimmee, Florida,216
+5,Madeira Beach, Florida,90
+5,Melbourne Beach, Florida,574
+5,Orlando, Florida,323
+5,Panacea, Florida,169
+5,Panama City Beach, Florida,244.333
+5,Payson, Arizona,79
+5,Phoenix, Arizona,243
+5,Pine, Arizona,117
+5,Pinetop-Lakeside, Arizona,165
+5,Pompano Beach, Florida,461
+5,Port St. Joe, Florida,630
+5,Sarasota, Florida,343.5
+5,Scottsdale, Arizona,228
+5,St Petersburg, Florida,219
+5,Tempe, Arizona,188
+5,Winter Garden, Florida,150
+6,Bradenton, Florida,464
+6,Cape Coral, Florida,212.5
+6,Cocoa Beach, Florida,486
+6,Davenport, Florida,187.75
+6,Gilbert, Arizona,254
+6,Hawthorne, Florida,71
+6,Kissimmee, Florida,226.5
+6,Live Oak, Florida,204
+6,Mesa, Arizona,201
+6,Panama City, Florida,313
+6,Panama City Beach, Florida,149
+6,Phoenix, Arizona,171
+6,Scottsdale, Arizona,479.5
+6,St. Augustine, Florida,777
+6,Summerland Key, Florida,477
+7,Cripple Creek, Colorado,217
+7,Four Corners, Florida,163
+7,Kissimmee, Florida,412.5
+7,Payson, Arizona,130
+7,Phoenix, Arizona,419
+7,Scottsdale, Arizona,372.667
+7,Tucson, Arizona,246
+8,Cape Coral, Florida,213
+8,Fort Lauderdale, Florida,406
+8,Fort Myers Beach, Florida,406
+8,Kissimmee, Florida,270
+8,Tempe, Arizona,190
+10,Championsgate, Florida,278
+11,Four Corners, Florida,341
+11,Kissimmee, Florida,273
+13,Kissimmee, Florida,229
+14,Four Corners, Florida,542
+15,Kissimmee, Florida,270
+16,Kissimmee, Florida,614
+17,Fort Pierce, Florida,1435
+20,Kissimmee, Florida,741
